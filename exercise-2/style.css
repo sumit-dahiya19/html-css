@@ -1,0 +1,72 @@
+.first {
+  width: 330px;
+  padding: 0px 0px 0px 30px;
+  margin: 25px 0px 0px 34px;
+  text-align: center;
+}
+.second {
+  width: 330px;
+  margin: -250px 0px 0px 438px;
+  text-align: center;
+}
+.three {
+  width: 330px;
+  padding: 0px 0px 0px 30px;
+  margin: 35px 0px 0px 26px;
+  text-align: center;
+}
+.four {
+  width: 330px;
+  margin: -234px 0px 0px 444px;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  margin-right: 15px;
+}
+input {
+  visibility: hidden;
+}
+label {
+  cursor: pointer;
+}
+input:checked + label {
+  background: rgb(74, 175, 181);
+}
+
+.color {
+  padding: 10px 10px 10px 10px;
+  margin: -560px 0px 0px 910px;
+  width: 400px;
+  height: 520px;
+  box-shadow: 0px 0px 20px 20px rgb(172, 170, 170);
+}
+.show {
+  visibility: visible;
+  margin: 0px 0px 25px 44px;
+  width: 300px;
+  height: 40px;
+  text-align: center;
+}
+.trans {
+  opacity: 0.6;
+}
+label {
+  margin: 2px 26px 0px -21px;
+  border: 1px solid rgb(41, 49, 49);
+  padding: 12px;
+  opacity: 0.7;
+}
+.selectVec {
+  margin: 0px 0px 0px 40px;
+}
+#Submit {
+  margin: 25px 0px 0px 43px;
+  background-color: rgb(74, 175, 181);
+  color: white;
+  height: 65px;
+  border-radius: 5px;
+  font-size: 20px;
+  border: 0px;
+}
