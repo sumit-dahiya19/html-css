@@ -33,6 +33,7 @@ input {
 }
 input:checked + label {
   background: rgb(74, 175, 181);
+  color:white;
 }
 .form {
   padding: 10px 10px 10px 10px;
@@ -47,6 +48,7 @@ input:checked + label {
   margin: 0px 0px 25px 28px;
   width: 300px;
   height: 40px;
+  font-size: 15px;
   border: 1.5px solid rgb(225,225,225);
 }
 .trans {
@@ -59,8 +61,9 @@ input:checked + label {
   color: white;
   height: 65px;
   border-radius: 5px;
-  font-size: 20px;
+  font-size: 16px;
   border: 0px;
+  font-weight: bold;
 }
 a{
   color:rgb(51,122,183);
