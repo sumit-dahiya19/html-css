@@ -27,13 +27,13 @@ div {
   color: white;
   cursor: pointer;
 }
-.img1 {
+.brand_logo {
   margin: 132px 0px 0px 255px;
 }
-.img2 {
+.username_logo {
   margin: 0px 0px -4px 0px;
 }
-.img3 {
+.password_logo {
   margin: 30px 0px -4px 1px;
 }
 .form {
