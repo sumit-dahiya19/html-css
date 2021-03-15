@@ -2,6 +2,7 @@ body {
   background-color: #3da2e0;
 }
 div {
+  size: 100px;
   background-color: white;
   height: 620px;
   width: 620px;
@@ -11,10 +12,12 @@ div {
 .name {
   padding: 40px 118px 10px 13px;
   border-width: 0 0 1px;
+  outline-width:0 ;
 }
 .password {
   padding: 40px 120px 10px 13px;
   border-width: 0 0 1px;
+  outline-width: 0;
 }
 .login {
   padding: 2px 1px 0px 0px;
