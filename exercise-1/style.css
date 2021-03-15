@@ -4,7 +4,6 @@ body {
 div {
   size: 100px;
   background-color: white;
-  height: 620px;
   width: 620px;
   border-radius: 10px;
   margin: 44px 0px 0px 360px;
@@ -21,7 +20,7 @@ div {
 }
 .login {
   padding: 2px 1px 0px 0px;
-  margin: 40px 0px 0px -4px;
+  margin: 40px 0px 120px -4px;
   background-color: #ec3d67;
   width: 313px;
   border-radius: 34px;
