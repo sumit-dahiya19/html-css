@@ -1,2 +1,2 @@
-Hello
+
 Exercise 3
