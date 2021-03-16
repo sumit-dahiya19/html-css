@@ -1,0 +1,108 @@
+.top {
+  display: grid;
+}
+.flipkart_logo {
+  width: 8%;
+  height: 45px;
+  object-fit: cover;
+  object-position: 80% 30%;
+  margin-left: 120px;
+  margin-top: 10px;
+}
+.search {
+  margin-left: 236px;
+  margin-top: -40px;
+  margin-right: 700px;
+}
+.search_logo {
+  margin-left: 678px;
+  margin-top: -38px;
+  width: 2.5%;
+}
+.more_drop {
+  margin-left: 988px;
+  margin-top: -31px;
+  width: 1%;
+}
+.cart {
+  margin-left: 1032px;
+  margin-top: -38px;
+  width: 2.2%;
+}
+table,
+th {
+  padding-right: 80px;
+}
+.beauty {
+  width: 1450px;
+  height: 280px;
+  margin-left: -10px;
+}
+.left_arrow {
+  height: 70px;
+  position: relative;
+  margin-top: -60px;
+  top: -167px;
+}
+.right_arrow {
+  position: relative;
+  height: 70px;
+  margin-top: -60px;
+  margin-left: 1311px;
+  top: -167px;
+}
+
+.clock {
+  position: relative;
+  left: 140px;
+  top: -44px;
+  width: 2%;
+}
+.earphone {
+  width: 15%;
+  position: relative;
+  top: -84px;
+  left: 15px;
+  height: 250px;
+}
+.watch {
+  position: relative;
+  top: -334px;
+  width: 15%;
+  left: 248px;
+  height: 250px;
+}
+.shoe1 {
+  position: relative;
+  top: -583px;
+  width: 15%;
+  left: 484px;
+  height: 250px;
+}
+.suit {
+  position: relative;
+  top: -832px;
+  width: 15%;
+  left: 715px;
+  height: 250px;
+}
+.bag {
+  position: relative;
+  top: -1082px;
+  width: 15%;
+  left: 945px;
+  height: 250px;
+}
+.ad {
+  width: 14%;
+  position: relative;
+  top: -344px;
+  margin-left: 1204px;
+  margin-bottom: 0px;
+}
+div {
+  margin-right: 0px;
+}
+body {
+  position: fixed;
+}
